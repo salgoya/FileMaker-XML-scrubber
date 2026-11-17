@@ -2,7 +2,7 @@
 
 A command-line port of `clockwork-scrubber.html` v1.4. It uses the same detection engine and produces the same redacted output, run from a terminal, a script, an automation tool, your editor or a FileMaker script instead of a browser. Everything runs locally. Nothing is uploaded anywhere.
 
-The engine is the work of Andrew Kear of Clockwork Creative Technology, shared openly with the FileMaker/Claris community. This port follows the v1.4 engine pass for pass and keeps its original comments. Later releases of the browser tool are not included until the port is updated to match. For what is scrubbed and why, see [README.md](README.md). This file covers only how to run the command.
+The engine is the work of Andrew Kear of Clockwork Creative Technology, shared openly with the FileMaker/Claris community. This port follows the v1.4 engine pass for pass and keeps its original comments. Later releases of the browser tool are not included until the port is updated to match. For what is scrubbed and why, see [README_html.md](README_html.md). This file covers only how to run the command.
 
 ---
 
